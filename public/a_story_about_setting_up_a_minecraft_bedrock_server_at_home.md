@@ -1,10 +1,12 @@
 ---
-title: "自宅にMinecraft Bedrock Serverを立てた話"
-emoji: "💡"
-topics: []
-published: false
+title: 自宅にMinecraft Bedrock Serverを立てた話
+tags: []
+private: false
+updated_at: ''
+id: null
+organization_url_name: null
+slide: false
 ---
-
 # 想定読者
 - インフラエンジニア
 # 始めに

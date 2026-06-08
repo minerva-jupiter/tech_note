@@ -1,10 +1,12 @@
 ---
-title: "Next(TypeScript) + WASM(Rust) + Vite をお試し"
-emoji: "🐥"
-topics: []
-published: false
+title: Next(TypeScript) + WASM(Rust) + Vite をお試し
+tags: []
+private: false
+updated_at: ''
+id: null
+organization_url_name: null
+slide: false
 ---
-
 # はじめに
 最近何かと話題のRustをWebで使う手法として、WASMというものを知りました。
 正確にはWASMはブラウザで実行されるバイナリファイルであり、その規格でありますが、RustをそちらにコンパイルしてWeb側(Next.js)から呼び出せるようにしてみたいと思います。

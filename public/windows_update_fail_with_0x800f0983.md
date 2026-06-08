@@ -1,14 +1,14 @@
 ---
-title: "Windows Update fail with 0x800f0983"
-emoji: "🪟"
-type: "tech"
-topics:
-  - "windows11"
-  - "0x800f0983"
-published: true
-published_at: "2025-10-17 19:52"
+title: Windows Update fail with 0x800f0983
+tags:
+- windows11
+- '0x800f0983'
+private: false
+updated_at: 2025-10-17 19:52
+id: null
+organization_url_name: null
+slide: false
 ---
-
 # What is this article
 これは、一人でWindowsを保守できる程度の技量を持ち合わせた人間向けの文章です。
 Windows Updateが以下の文言と共に失敗しました。

@@ -1,16 +1,16 @@
 ---
-title: "Gentoo Desktop with \"-Ofast\""
-emoji: "🐧"
-type: "tech"
-topics:
-  - "linux"
-  - "gcc"
-  - "gentoo"
-  - "ofast"
-published: true
-published_at: "2025-09-28 17:32"
+title: Gentoo Desktop with "-Ofast"
+tags:
+- linux
+- gcc
+- gentoo
+- ofast
+private: false
+updated_at: 2025-09-28 17:32
+id: null
+organization_url_name: null
+slide: false
 ---
-
 # 経緯
 Gentoo Linuxのインストールを複数回やって、きたのでそろそろ挑戦的なことがしてみたいという気持ちが発生してきて、このような内容をやってみました。
 とりあえず構築しようとした環境をまとめておきます。

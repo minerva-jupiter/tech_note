@@ -1,13 +1,13 @@
 ---
-title: "GentooのPortageのアップデートをrsyncからgitにした"
-emoji: "🐧"
-type: "tech"
-topics:
-  - "gentoo"
-published: true
-published_at: "2025-09-01 17:46"
+title: GentooのPortageのアップデートをrsyncからgitにした
+tags:
+- gentoo
+private: false
+updated_at: 2025-09-01 17:46
+id: null
+organization_url_name: null
+slide: false
 ---
-
 # TL;DR
 1. 必要なパッケージを入れる
 ```

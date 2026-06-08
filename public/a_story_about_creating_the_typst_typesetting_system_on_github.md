@@ -1,14 +1,14 @@
 ---
-title: "Typstの組版システムをGitHubで作った話"
-emoji: "⌨️"
-type: "tech"
-topics:
-  - "typst"
-  - "githubrun"
-published: true
-published_at: "2025-12-01 13:07"
+title: Typstの組版システムをGitHubで作った話
+tags:
+- typst
+- githubrun
+private: false
+updated_at: 2025-12-01 13:07
+id: null
+organization_url_name: null
+slide: false
 ---
-
 # 想定読者
 - GitHubのworkflowを触れる程度の技術がある人
 - GitHubを用いることで、一人または複数人での組版を楽にしたいと思っている人

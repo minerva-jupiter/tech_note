@@ -1,14 +1,14 @@
 ---
-title: "Stuck of Zed Remote"
-emoji: "🙆"
-type: "tech"
-topics:
-  - "remote"
-  - "zed"
-published: true
-published_at: "2026-02-28 10:47"
+title: Stuck of Zed Remote
+tags:
+- remote
+- zed
+private: false
+updated_at: 2026-02-28 10:47
+id: null
+organization_url_name: null
+slide: false
 ---
-
 # 想定読者
 ZedのRemote機能の利用者
 

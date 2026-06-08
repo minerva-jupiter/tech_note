@@ -1,16 +1,16 @@
 ---
-title: "開発環境に関する考察"
-emoji: "📖"
-type: "idea"
-topics:
-  - "ssh"
-  - "devcontainer"
-  - "proxmox"
-  - "zed"
-published: true
-published_at: "2026-02-17 21:30"
+title: 開発環境に関する考察
+tags:
+- ssh
+- devcontainer
+- proxmox
+- zed
+private: false
+updated_at: 2026-02-17 21:30
+id: null
+organization_url_name: null
+slide: false
 ---
-
 # 想定読者
 - 他の人の開発環境とその背後にある構想を覗いてみたい人
 

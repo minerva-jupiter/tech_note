@@ -1,15 +1,15 @@
 ---
-title: "SSH from Internet via Cloudflare Zero Trust"
-emoji: "⛩️"
-type: "tech"
-topics:
-  - "cloudflare"
-  - "zerotrust"
-  - "openssh"
-published: true
-published_at: "2025-07-29 19:09"
+title: SSH from Internet via Cloudflare Zero Trust
+tags:
+- cloudflare
+- zerotrust
+- openssh
+private: false
+updated_at: 2025-07-29 19:09
+id: null
+organization_url_name: null
+slide: false
 ---
-
 # TL;DR
 https://zenn.dev/jij_inc/articles/659fe35813b940
 この記事の方がわかりやすいです。

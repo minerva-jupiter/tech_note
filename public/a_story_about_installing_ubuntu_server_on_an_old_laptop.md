@@ -1,15 +1,15 @@
 ---
-title: "古いLaptopにUbuntuServerを入れた話"
-emoji: "💻"
-type: "idea"
-topics:
-  - "laptop"
-  - "ubnutuserver"
-  - "used"
-published: true
-published_at: "2025-07-30 07:59"
+title: 古いLaptopにUbuntuServerを入れた話
+tags:
+- laptop
+- ubnutuserver
+- used
+private: false
+updated_at: 2025-07-30 07:59
+id: null
+organization_url_name: null
+slide: false
 ---
-
 # 想定する読者
 暇つぶしに、他人のPCのセットアップを見学したい方
 # 経緯

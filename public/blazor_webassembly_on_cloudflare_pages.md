@@ -1,15 +1,15 @@
 ---
-title: "Blazor WebAssembly on Cloudflare Pages"
-emoji: "💨"
-type: "tech"
-topics:
-  - "csharp"
-  - "blazor"
-  - "cloudflarepages"
-published: true
-published_at: "2025-07-28 01:06"
+title: Blazor WebAssembly on Cloudflare Pages
+tags:
+- csharp
+- blazor
+- cloudflarepages
+private: false
+updated_at: 2025-07-28 01:06
+id: null
+organization_url_name: null
+slide: false
 ---
-
 # TL;DL
 [リポジトリ](https://github.com/minerva-jupiter/webtools-mj)
 ビルド設定は

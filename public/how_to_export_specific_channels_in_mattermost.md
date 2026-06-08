@@ -1,14 +1,14 @@
 ---
-title: "Mattermostの特定のチャンネルをexportする方法"
-emoji: "📑"
-type: "tech"
-topics:
-  - "export"
-  - "mattermost"
-published: true
-published_at: "2026-02-26 21:10"
+title: Mattermostの特定のチャンネルをexportする方法
+tags:
+- export
+- mattermost
+private: false
+updated_at: 2026-02-26 21:10
+id: null
+organization_url_name: null
+slide: false
 ---
-
 # 総集編
 ### ログイン(トークンの取得)
 ```bash

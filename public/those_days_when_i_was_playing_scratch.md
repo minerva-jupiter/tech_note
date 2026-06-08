@@ -1,13 +1,13 @@
 ---
-title: "Scratchで遊んでいたあの頃"
-emoji: "😽"
-type: "idea"
-topics:
-  - "scratch"
-published: true
-published_at: "2025-12-21 12:13"
+title: Scratchで遊んでいたあの頃
+tags:
+- scratch
+private: false
+updated_at: 2025-12-21 12:13
+id: null
+organization_url_name: null
+slide: false
 ---
-
 ※この記事は元々仲間内でAdvent Calendarを作るために書いたものですが，計画が頓挫したので，こっちで公開しています．
 
 せっかくの機会ですので，私の昔話をしようと思います．

@@ -1,10 +1,12 @@
 ---
-title: "2025年Pimエディタ戦争(Vim側)"
-emoji: "👏"
-topics: []
-published: false
+title: 2025年Pimエディタ戦争(Vim側)
+tags: []
+private: false
+updated_at: ''
+id: null
+organization_url_name: null
+slide: false
 ---
-
 # Vim側の意見
 ## 自己紹介
 私は収容人数100人超えのチャットサービスとチケット管理サービスのセルフホストを24/365で運用しているチームの一員です．

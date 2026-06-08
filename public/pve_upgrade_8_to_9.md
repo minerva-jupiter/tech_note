@@ -1,16 +1,16 @@
 ---
-title: "PVE upgrade 8 to 9"
-emoji: "⛰️"
-type: "tech"
-topics:
-  - "debian"
-  - "proxmox"
-  - "pve"
-  - "pve8to9"
-published: true
-published_at: "2025-11-07 15:00"
+title: PVE upgrade 8 to 9
+tags:
+- debian
+- proxmox
+- pve
+- pve8to9
+private: false
+updated_at: 2025-11-07 15:00
+id: null
+organization_url_name: null
+slide: false
 ---
-
 # 想定読者
 - Proxmox VEをCLIからも触ることができ、よく保守している利用者
 - Debian系OSのメジャーバージョンアップグレードをする人

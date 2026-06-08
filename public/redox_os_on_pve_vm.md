@@ -1,15 +1,15 @@
 ---
-title: "Redox OS on PVE VM"
-emoji: "🌀"
-type: "tech"
-topics:
-  - "qemu"
-  - "pve"
-  - "redox"
-published: true
-published_at: "2026-02-20 22:24"
+title: Redox OS on PVE VM
+tags:
+- qemu
+- pve
+- redox
+private: false
+updated_at: 2026-02-20 22:24
+id: null
+organization_url_name: null
+slide: false
 ---
-
 # 対象読者
 PVEについてQEMUやddコマンドを扱う技量のある方
 

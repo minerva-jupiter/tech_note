@@ -1,14 +1,14 @@
 ---
-title: "Inkscapeの背景透過出力でハマった話"
-emoji: "✒️"
-type: "tech"
-topics:
-  - "inkscape"
-  - "背景透過"
-published: true
-published_at: "2025-11-26 23:04"
+title: Inkscapeの背景透過出力でハマった話
+tags:
+- inkscape
+- 背景透過
+private: false
+updated_at: 2025-11-26 23:04
+id: null
+organization_url_name: null
+slide: false
 ---
-
 Inkscapeで背景透過pngを出力しようとした時にはまった話です．
 # 想定読者
 - Inkscapeで適当に画像を作ったり切り抜いたりして，使いこなし始めたひと

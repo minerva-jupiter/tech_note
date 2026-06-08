@@ -1,16 +1,16 @@
 ---
-title: "レポートレビューLLMをLoRAで作る"
-emoji: "⛏️"
-type: "tech"
-topics:
-  - "lora"
-  - "llm"
-  - "typst"
-  - "qlora"
-published: true
-published_at: "2025-12-13 00:11"
+title: レポートレビューLLMをLoRAで作る
+tags:
+- lora
+- llm
+- typst
+- qlora
+private: false
+updated_at: 2025-12-13 00:11
+id: null
+organization_url_name: null
+slide: false
 ---
-
 # 想定読者
 
 この記事の想定読者は以下の人です．専門用語に関しては，検索すれば出てくるものとして，こちらで注釈を付けることはしません．誤用などあればコメント下さい．

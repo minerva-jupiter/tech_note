@@ -1,15 +1,15 @@
 ---
-title: "Rust WASM のgetrandomに苦しんだ話"
-emoji: "🎲"
-type: "tech"
-topics:
-  - "rust"
-  - "wasm"
-  - "getrandom"
-published: true
-published_at: "2025-11-27 19:19"
+title: Rust WASM のgetrandomに苦しんだ話
+tags:
+- rust
+- wasm
+- getrandom
+private: false
+updated_at: 2025-11-27 19:19
+id: null
+organization_url_name: null
+slide: false
 ---
-
 # ‌‌‌‌状況
 ‌‌いつものようにnext.jsからWASMのRustを呼び出してました。
 ‌今回は、形態素解析のビブラートというソフトウェアを入れて、‌ それによってチャットの返答が変わるようなアプリケーションを作成しようとしてました。

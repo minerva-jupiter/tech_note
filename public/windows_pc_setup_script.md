@@ -1,10 +1,12 @@
 ---
-title: "Windows PC setupスクリプト"
-emoji: "🙆‍♀️"
-topics: []
-published: false
+title: Windows PC setupスクリプト
+tags: []
+private: false
+updated_at: ''
+id: null
+organization_url_name: null
+slide: false
 ---
-
 # 概要
 Windowsのセットアップを自動化する方式を検討する記事です．
 # 対象読者

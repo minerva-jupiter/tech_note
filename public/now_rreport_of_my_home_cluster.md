@@ -1,13 +1,13 @@
 ---
-title: "Now Rreport of my home Cluster"
-emoji: "📃"
-type: "tech"
-topics:
-  - "zennfes2025infra"
-published: true
-published_at: "2025-09-28 18:19"
+title: Now Rreport of my home Cluster
+tags:
+- zennfes2025infra
+private: false
+updated_at: 2025-09-28 18:19
+id: null
+organization_url_name: null
+slide: false
 ---
-
 # 我が家のインフラまとめ
 ## Network
 ```mermaid

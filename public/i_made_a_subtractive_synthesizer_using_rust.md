@@ -1,16 +1,16 @@
 ---
-title: "Rustで減算方式のシンセサイザーを作った"
-emoji: "🎹"
-type: "tech"
-topics:
-  - "rust"
-  - "vst"
-  - "clap"
-  - "nihplug"
-published: true
-published_at: "2026-04-14 00:17"
+title: Rustで減算方式のシンセサイザーを作った
+tags:
+- rust
+- vst
+- clap
+- nihplug
+private: false
+updated_at: 2026-04-14 00:17
+id: null
+organization_url_name: null
+slide: false
 ---
-
 ## 想定読者
 
 - Rustacean

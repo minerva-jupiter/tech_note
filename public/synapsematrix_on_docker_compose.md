@@ -1,16 +1,16 @@
 ---
-title: "Synapse(Matrix) on Docker Compose"
-emoji: "💬"
-type: "tech"
-topics:
-  - "docker"
-  - "matrix"
-  - "selfhosted"
-  - "synapse"
-published: true
-published_at: "2025-11-10 21:49"
+title: Synapse(Matrix) on Docker Compose
+tags:
+- docker
+- matrix
+- selfhosted
+- synapse
+private: false
+updated_at: 2025-11-10 21:49
+id: null
+organization_url_name: null
+slide: false
 ---
-
 # 想定読者
 - Synapseのバックエンドをセルフホステッドする人
 - まともにCLI onlyのサーバを運用する人

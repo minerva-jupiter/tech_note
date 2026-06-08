@@ -1,13 +1,13 @@
 ---
-title: "「ものづくり」とは"
-emoji: "🔧"
-type: "idea"
-topics:
-  - "ものづくり"
-published: true
-published_at: "2026-03-31 00:28"
+title: 「ものづくり」とは
+tags:
+- ものづくり
+private: false
+updated_at: 2026-03-31 00:28
+id: null
+organization_url_name: null
+slide: false
 ---
-
 # 結論
 __具現化__
 
