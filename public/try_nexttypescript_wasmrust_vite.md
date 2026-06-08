@@ -1,0 +1,29 @@
+---
+title: "Next(TypeScript) + WASM(Rust) + Vite をお試し"
+emoji: "🐥"
+topics: []
+published: false
+---
+
+# はじめに
+最近何かと話題のRustをWebで使う手法として、WASMというものを知りました。
+正確にはWASMはブラウザで実行されるバイナリファイルであり、その規格でありますが、RustをそちらにコンパイルしてWeb側(Next.js)から呼び出せるようにしてみたいと思います。
+Rustでフロントをいじるactix-webのようなものとは違うという趣旨だけ、ご了承ください。
+
+# 下準備
+PCを初期化したばかりだったので、いくつか入っていないツールがありました。入れときます。
+`winget install Oven-sh.bun`
+またnode.jsを入れておきましょう(わたしはこれは入ってた)
+WASMをRustで書くためにはRustのパッケージマネージャーとしてcargoやその他ツールチェーンを入れます。
+公式ページからインストールスクリプトを取ってきます。
+クイックインストール(Visual Studio経由)でやろうとするとWindows11 SDKを入れられそうだったので、マニュアルインストールにしました。Ubuntuに入れたときみたいな入り方で安心しました。
+ですが、次の手順にてエラーが出たので追加のダウンロードをしました。Visual Studio Build Toolsです。`C++デスクトップ開発`にチェックを入れて入れます。
+あとは`cargo install wasm-pack`もしてWASMに関係するツールも入れておきます。
+# init
+## リポジトリ作成
+`npx create-next-app@latest`
+を実行します。私はTypeScriptが好きなのでTypeScriptを選択します。
+また、見た目を工夫するような余力はないので余裕があればBootStrapでも導入しようかなと思っています。
+## Rust系のインストール
+WASM系のものを作るコマンド`cargo new --lib wasm`
+ビルドは`wasm-pack build --target web`
