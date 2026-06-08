@@ -1,6 +1,7 @@
 ---
 title: Gentoo install battle
-tags: []
+tags: 
+- Gentoo Linux
 private: false
 updated_at: ''
 id: null

@@ -1,6 +1,7 @@
 ---
 title: Windows PC setupスクリプト
-tags: []
+tags: 
+- Windows
 private: false
 updated_at: ''
 id: null

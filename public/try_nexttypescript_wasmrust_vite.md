@@ -1,6 +1,9 @@
 ---
 title: Next(TypeScript) + WASM(Rust) + Vite をお試し
-tags: []
+tags: 
+- Next.js
+- Rust
+- WASM
 private: false
 updated_at: ''
 id: null

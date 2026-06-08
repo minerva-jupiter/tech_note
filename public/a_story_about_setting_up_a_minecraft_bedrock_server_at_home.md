@@ -1,6 +1,7 @@
 ---
 title: 自宅にMinecraft Bedrock Serverを立てた話
-tags: []
+tags: 
+- Minecraft Bedrock
 private: false
 updated_at: ''
 id: null

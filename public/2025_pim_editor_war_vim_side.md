@@ -1,6 +1,7 @@
 ---
 title: 2025年Pimエディタ戦争(Vim側)
-tags: []
+tags: 
+- Vim
 private: false
 updated_at: ''
 id: null
