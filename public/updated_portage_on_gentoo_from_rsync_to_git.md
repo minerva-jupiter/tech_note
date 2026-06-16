@@ -1,12 +1,13 @@
 ---
 title: GentooのPortageのアップデートをrsyncからgitにした
 tags:
-- gentoo
+  - Gentoo
 private: false
-updated_at: 2025-09-01 17:46
-id: null
+updated_at: '2026-06-17T07:14:21+09:00'
+id: dbdf830dac681a6deec1
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 # TL;DR
 1. 必要なパッケージを入れる
